@@ -1,2 +1,2 @@
-n = input('digite um valor:')
-print(n.isnumeric)
+a = input('digite um valor: ')
+print('o tipo do valor é ',type(a))
